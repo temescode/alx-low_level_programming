@@ -1,0 +1,2 @@
+ radme for static libraries
+
